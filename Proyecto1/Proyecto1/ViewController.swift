@@ -53,7 +53,6 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
             detPicture.image = UIImage(named: pics[(indexPath?.row)!])!
             let detPrice = segue.destination as! SecondViewController
             detPrice.price = price[(indexPath?.row)!]
-        print(buyItems)
         
     }
     
