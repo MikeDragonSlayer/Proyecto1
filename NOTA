@@ -1,0 +1,4 @@
+Cuando estaba creando la aplicacion, se me ocurrió la "genial" idea de manejar mis datos como arreglos en lugar de estructuras,
+cuando llegué a la parte de hacer el carrito y descubrií mi error, comencé a cambiar todo el codigo haciendolo ahora si por 
+estructuras, lamentablemente era demasiado tarde y no logré hacer el cambio a tiempo. Debido a esto la funcion del carrito se
+encuentra deshabilitada. :( 
